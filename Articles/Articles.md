@@ -222,6 +222,104 @@ UX-тексты — это ключевая часть пользователь�
 
 # Архив статей (2021–2025)
 
+## 2025
+
+- **[What's an API?](https://read.technically.dev/p/whats-an-api)** — Доступное объяснение понятия API для новичков, которые ещё не готовы к более серьёзному курсу по документированию API.
+- **[Tech Writing Predictions 2025](https://passo.uno/tech-writing-predictions-2025/)** — Прогнозы автора блога Passo о том, как будет развиваться профессия технического писателя в 2025 году.
+- **[My 2025 trends predictions for tech comm](https://idratherbewriting.com/blog/trends-predictions-2025-tech-comm)** — Прогнозы Тома Джонсона о ключевых трендах в технической коммуникации на 2025 год.
+- **[Історія створення відділу технічної документації в держкомпанії](https://dou.ua/goto/e3PE)** — Кейс о том, как в крупной государственной IT-компании с нуля создали централизованный отдел технической документации.
+- **[Software documentation guide — Write the Docs](https://www.writethedocs.org/guide/index.html)** — Обширное открытое руководство сообщества Write the Docs по написанию и организации технической документации.
+- **[Unlocking AI: How technical writers can make content searchable and discoverable](https://medium.com/softserve-technical-communication/unlocking-ai-how-technical-writers-can-make-content-searchable-and-discoverable-a0f45b9b1531)** — Статья о том, как технические писатели могут использовать ИИ, чтобы сделать документацию более удобной для поиска.
+- **[Use cases for AI](https://idratherbewriting.com/ai/)** — Подборка сценариев применения ИИ в работе технического писателя от Тома Джонсона.
+- **[Як писати якісні текстові поля для інтерфейсу](https://dou.ua/forums/topic/53677/?from=slider)** — Авторская статья про UX-писательство, разбирающая текстовое поле интерфейса как набор из нескольких текстовых компонентов на реальном примере OLX.
+- **[State of Docs 2025](https://www.stateofdocs.com/2025/introduction-basic-stats)** — Ежегодный отраслевой отчёт о состоянии документации: как команды измеряют успех, встраивают доки в продуктовый процесс и используют ИИ.
+- **[I feel like I've seen the future today](https://idratherbewriting.com/blog/seen-the-future-document-authoring-api)** — Заметка Тома Джонсона о новых подходах к авторингу документации через API, которые впечатлили его своим потенциалом.
+- **[The plurality of AI attitudes and experiences](https://idratherbewriting.com/blog/plurality-of-ai-attitudes-experiences)** — Размышления Тома Джонсона о разнообразии мнений и опыта технических писателей в отношении ИИ.
+
+## 2024
+
+- **[Стаття про техрайтерську сертифікацію](https://shorturl.at/gqFNP)** — Автор звів докупи всю доступну інформацію про сертифікацію технічних письменників; стаття є також в англомовній версії.
+- **[My 2024 technical writing trends and predictions](https://idratherbewriting.com/blog/2024-tech-comm-trends-and-predictions)** — Том Джонсон прогнозирует тренды технического письма на 2024 год, включая влияние ИИ на профессию.
+- **[All the ways I'm using AI tools in everyday life](https://idratherbewriting.com/blog/all-the-ways-im-using-ai-tools-in-everyday-life)** — Автор блога делится личным опытом применения разных ИИ-инструментов в повседневной работе техписателя.
+- **[Quality checklist for API documentation](https://idratherbewriting.com/learnapidoc/docapis_quality_checklist.html)** — Чек-лист для проверки качества API-документации от известного блога и курса по API docs Тома Джонсона.
+- **[Portfolios: API docs (гостевой пост Peter Gustafson)](https://idratherbewriting.com/blog/portfolios-api-docs-peter-gustafson)** — Гостевой пост в блоге Тома Джонсона о создании сайта-портфолио для демонстрации примеров API-документации, с разбором его сильных и слабых сторон.
+- **[The Role of the Technical Writer in the AI Revolution](https://habr.com/ru/articles/744930/)** — Статья рассматривает, как технические писатели становятся посредниками между ИИ-технологиями и пользователями, объясняя сложные концепции простым языком.
+- **[AI is accelerating my technical writing output, and other observations](https://idratherbewriting.com/blog/ai-is-accelerating-me)** — Том Джонсон делится наблюдениями о том, как использование ИИ ускоряет и меняет процесс написания технической документации.
+- **[Understanding APIs: 10 API Concepts and Examples](https://blog.latitude.so/understanding-apis/)** — Статья разбирает базовые концепции API: типы, REST/SOAP, форматы данных, аутентификацию и ограничение частоты запросов.
+- **[Краще забути про «Ой» та «Упс». Як писати про помилки в UX](https://dou.ua/forums/topic/49586/)** — Статья на DOU о принципах UX-письма для сообщений об ошибках — как формулировать их понятнее и доброжелательнее для пользователя.
+- **[UX Writing Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)** — Подборка материалов от Nielsen Norman Group по основам UX-письма: принципы, методики и рекомендации по текстам интерфейса.
+- **[6 Words Technical Writers Struggle to Break Up With](https://www.linkedin.com/pulse/6-words-technical-writers-struggle-break-up-simplified-shumin-chen/)** — Статья на LinkedIn о шести словах-паразитах, от которых стоит отказаться техническим писателям ради более простого и ясного языка.
+- **[University Commas (xkcd 2995)](https://www.reddit.com/r/xkcd/comments/1fyj7qr/xkcd_2995_university_commas/)** — Шуточная подборка на Reddit, где разные виды англомовних запятых (в т.ч. оксфордскую) называют именами университетов — забавный, но полезный ликбез по пунктуации для тех, кто пишет на английском.
+- **[Про оксфордську кому](https://t.me/pereklad_lokalizatsiya/391)** — Пост в telegram-канале про переклад і локалізацію, присвячений оксфордській комі та її ролі в текстах.
+- **[Docusaurus Search Chatbot](https://tw-docs.com/docs/static-site-generators/docusaurus-search-chatbot/)** — Пошаговая инструкция, как добавить чат-бота для поиска по сайту документации, построенному на Docusaurus.
+- **[2024 technical writing journey: From documentation specialist...](https://www.linkedin.com/pulse/2024-technical-writing-journey-from-documentation-specialist-adler-vchbe)** — Личная рефлексия автора о профессиональном пути технического писателя за 2024 год.
+
+## 2023
+
+- **[Обзор направления DocOps на Flow 2022](https://habr.com/ru/company/jugru/blog/708338/)** — Авторский обзор докладов и трендов направления DocOps, представленных на конференции Flow 2022.
+- **[API Resources and Endpoints](https://idratherbewriting.com/learnapidoc/docapis_resource_endpoints.html)** — Пояснение Тома Джонсона о том, чем эндпоинт ресурса отличается от HTTP-метода при документировании API.
+- **[Working with OpenAPI — Postman Docs](https://learning.postman.com/docs/integrations/available-integrations/working-with-openAPI/)** — Официальное руководство Postman по импорту и работе со спецификациями OpenAPI внутри платформы.
+- **[Onboarding Tutorials — NN/g](https://www.nngroup.com/articles/onboarding-tutorials/)** — Статья Nielsen Norman Group о принципах создания эффективных обучающих онбординг-материалов и вспомогательной документации.
+- **[Docsy + Swagger UI: приклад Pet Store](https://tw-docs.com/docs/static-site-generators/petstore-swagger/)** — Пример встраивания интерактивной спецификации OpenAPI через шорткод Swagger UI в тему Docsy для Hugo.
+- **[Docsy + Redoc: приклад Pet Store](https://tw-docs.com/docs/static-site-generators/petstore-redoc/)** — Аналогичный пример вставки OpenAPI-спецификации, но с использованием Redoc вместо Swagger UI в теме Docsy.
+- **[Write the Docs Newsletter – April 2023](https://www.writethedocs.org/blog/newsletter-april-2023.html#building-an-api-portfolio)** — Апрельский дайджест сообщества Write the Docs, среди прочего затрагивающий тему сборки API-портфолио.
+- **[Zoomin: GPT Key Predictions (White Paper)](https://storage.pardot.com/1018802/1680517858gTb683bk/Zoomin_GPT_Key_Predictions_White_paper__1_.pdf)** — White paper на 14 страниц об ожидаемом влиянии инструментов вроде ChatGPT на работу технических писателей.
+- **[Ecosystem, Structure, Identity, Pencils](https://idratherbewriting.com/2023/04/14/ecosystem-structure-identity-pencils/)** — Заметка Тома Джонсона с размышлениями об экосистемах инструментов и подходов в технической документации.
+- **[Docusaurus vs Gatsby vs Hugo](https://wtjungle.com/blog/docusaurus-gatsby-hugo/)** — Сравнение трёх генераторов статических сайтов документации — Docusaurus, Gatsby и Hugo.
+- **[Moving from Docusaurus to Hugo](https://ricard.dev/moving-from-docusaurus-to-hugo/)** — Личный опыт разработчика о переходе с Docusaurus на Hugo при построении сайта документации.
+- **[Docs as Code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html)** — Обзорный материал о подходе docs-as-code применительно к публикации API-документации.
+- **[How I Built WritingGPT: A Fully Automated AI Writing Team](https://medium.com/the-generator/how-i-built-writinggpt-a-fully-automated-ai-writing-team-a8fdf0255586)** — История о создании полностью автоматизированной команды из ИИ-агентов для написания текстов.
+- **[Newsletter: Doctave, Chatbase, SiteGPT, small CLs, TC bibliography](https://idratherbewriting.com/blog/doctave-microchat-small-cls-bibliography)** — Дайджест блога Тома Джонсона с обзором новых инструментов документации и AI-чат-сервисов для доков.
+- **[Why You Should Consider Docs as Code](https://www.doctave.com/blog/2021/08/30/why-you-should-consider-docs-as-code.html)** — Статья Doctave о преимуществах подхода docs-as-code для команд, работающих с документацией.
+- **[Technical Writing Digest #2 (DOU)](https://dou.ua/lenta/digests/technical-writing-digest-2/)** — Дайджест DOU с подборкой статей и новостей по теме технического письма.
+- **[The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464)** — Практическое руководство с советами по написанию технических блог-постов, полезное для авторов технического контента.
+- **[Docusaurus Image Zoom](https://tw-docs.com/docs/static-site-generators/docusaurus-image-zoom/)** — Авторская статья о подключении и настройке плагина увеличения изображений в Docusaurus.
+- **[Tech writer's git story: from isolation to collaboration](https://blog.jetbrains.com/writerside/2023/07/tech-writer-s-git-story-from-isolation-to-collaboration/)** — Блог JetBrains о том, как техрайтер осваивал git и переходил к совместной работе через docs-as-code.
+- **[Using AI as an editor (docapis)](https://idratherbewriting.com/learnapidoc/docapis_ai_language_advice.html)** — Том Джонсон делится опытом использования ChatGPT как редактора, поясняющего проблемы в тексте документации.
+- **[Do AI language models work for tech writers?](https://idratherbewriting.com/learnapidoc/docapis_ai_what_works_and_doesnt.html)** — Том Джонсон размышляет о том, что в работе с ИИ реально полезно техрайтерам, а что нет, на основе своего опыта.
+- **[Technical Writing: complement or compete with Generative AI?](https://medium.com/softserve-technical-communication/technical-writing-complement-or-compete-with-generative-ai-6403ee30c22b)** — Статья с результатами исследования SoftServe о том, сколько времени экономит ChatGPT на типовых задачах техрайтера, например на релиз-нотах.
+- **[Docusaurus: зміна розміру зображень через HTML](https://tw-docs.com/docs/static-site-generators/docusaurus-image-size/)** — Авторская статья о том, как менять размер изображений в Docusaurus с помощью HTML-тегов.
+- **[Организация репозитория и смежные задачи](https://habr.com/ru/companies/cloud_ru/articles/767014/)** — Статья с разбором подходов к организации репозитория проекта и решению сопутствующих задач.
+- **[Diátaxis: структура технической документации](https://habr.com/ru/companies/documentat/articles/766926/)** — Статья описывает фреймворк Diátaxis, который делит документацию на четыре типа (концепции, справочники, туториалы, инструкции) для более понятной структуры технических текстов.
+- **[Five Elements of Good API Documentation](https://apichangelog.substack.com/p/five-elements-of-good-api-documentation)** — В статье перечислены пять ключевых элементов качественной API-документации, помогающих разработчикам быстрее разобраться в продукте.
+
+## 2022
+
+- **[GitLab Docs Epic](https://gitlab.com/groups/gitlab-org/-/epics/4602)** — Эпик GitLab о переработке сайта документации компании.
+- **[The Future of Documentation at Canonical](https://ubuntu.com//blog/the-future-of-documentation-at-canonical)** — Пост Canonical о планах развития документации Ubuntu.
+- **[Airbnb — редизайн документации](https://www.linkedin.com/posts/joniv_its-an-exciting-day-at-airbnb-after-many-activity-6802607084165824512-byfE/)** — Анонс в LinkedIn о переработке документации в Airbnb.
+- **[Three Documentation Trends to Share With Your Team in 2022](https://blog.stoplight.io/three-documentation-trends-to-share-with-your-team-in-2022)** — Прогноз Stoplight про автоматизацию, переиспользование контента и интерактивную документацию.
+- **[10 Trends Shaping the API Industry in 2022](https://blog.stoplight.io/10-trends-shaping-the-api-industry-in-2022)** — Обзор Stoplight главных трендов API-индустрии на 2022 год.
+- **[Writing the Metaverse](https://medium.com/designatmeta/writing-the-metaverse-metas-vp-of-content-design-on-the-future-of-the-discipline-ad3ef56dda)** — Вице-президент Meta по дизайну контента рассуждает о будущем профессии в контексте метавселенной.
+- **[GitLab Style Guide — Images](https://docs.gitlab.com/ee/development/documentation/styleguide/#images)** — Раздел стайлгайда GitLab с правилами оформления изображений в документации.
+- **[Вам кажется, что с вашей документацией что-то не так? Вам не кажется](https://habr.com/ru/company/oleg-bunin/blog/648317/)** — Семён Факторович разбирает причины ощущения "бесполезности" документации и что с этим делать.
+- **[Docs-as-code на прикладі Docusaurus](https://docsy-site.netlify.app/ua/docs/static-site-generators/docs-as-code/)** — Украиноязычный разбор подхода docs-as-code на примере генератора статических сайтов Docusaurus.
+- **[Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui)** — Раздел стайлгайда Microsoft о том, как описывать взаимодействие с интерфейсом в инструкциях.
+- **[Как правильно писать IP-адреса в документации](https://habr.com/ru/post/92767/)** — Справка о том, какие диапазоны IP-адресов допустимо использовать в качестве примеров в документации.
+- **[Недооцененность роли бизнес-аналитика](https://habr.com/ru/company/surfstudio/blog/655077/)** — О причинах, по которым заказчики недооценивают роль бизнес-аналитика, и как с этим работать.
+- **[Trends to Follow (or Forget): Docs as Code](https://idratherbewriting.com/trends/trends-to-follow-or-forget-docs-as-code.html#commento)** — Том Джонсон делится личным опытом внедрения подхода docs-as-code.
+- **[Markdoc review](https://passo.uno/markdoc-review/)** — Обзор и разбор инструмента Markdoc для написания документации.
+- **[Confluence Wiki Markup](https://confluence.atlassian.com/doc/confluence-wiki-markup-251003035.html)** — Официальная справка Atlassian по синтаксису wiki-разметки Confluence.
+- **[How to Simplify Your Text: A Guide for Non-Writers](https://www.linkedin.com/pulse/how-simplify-your-text-guide-non-writers-daria-tutyk/)** — Короткий гайд с советами, как упростить письменную коммуникацию людям, для которых писательство не основная профессия.
+- **[Top Technical Writing Blogs, Tools & Resources](https://www.wizardondemand.com/post/top-technical-writing-blogs-tools-resources)** — Подборка любимых блогов, инструментов и ресурсов по технической документации от авторов статьи.
+- **[Reducing negative and biased language in documentation](https://www.cncf.io/blog/2022/03/09/reducing-negative-and-biased-language-in-documentation/)** — Статья о том, как настроить линтер для автоматического поиска предвзятых и негативных формулировок в документации.
+- **[DocOps: документация как код (Habr, Plesk)](https://habr.com/ru/company/plesk/blog/555110/)** — Статья, объясняющая суть DocOps — подхода, при котором документация разрабатывается теми же инструментами и практиками, что и код (docs as code).
+- **[Как в Альфа-банке ведут документацию рядом с кодом](https://habr.com/ru/company/alfa/blog/680556/)** — Кейс о практике DocOps в Альфа-Банке: как поддерживать консистентность документации и кода, ведя их вместе.
+- **[Кейс: документация на Hugo (Selectel)](https://habr.com/ru/company/selectel/blog/514576/)** — Разбор кейса Selectel по построению сайта документации на генераторе статических сайтов Hugo.
+- **[Как презентовать результаты исследований](https://medium.com/designkontur/как-влиять-на-судьбу-итогов-исследования-даже-если-ты-не-в-команде-719a9d6232a2)** — Материал о том, как исследователям, дизайнерам и редакторам, работающим в сервисной модели, эффективно презентовать результаты своей работы продукту.
+- **[A.I. Is Mastering Language. Should We Trust What It Says?](https://www.nytimes.com/2022/04/15/magazine/ai-language.html)** — Подробный лонгрид о развитии больших языковых моделей (GPT-3) и вопросах доверия к сгенерированному ими тексту.
+- **[Как вести документацию рядом с кодом: особенности миддл-слоя, трудности бинарника и многое другое](https://t.me/alfadigital_jobs/1023)** — Статья о практике docs-as-code в Alfa Digital — особенностях ведения документации в связке со средним слоем и бинарными компонентами.
+- **[Як стати Technical Writer. План дій для початківців](https://dou.ua/lenta/articles/become-technical-writer/)** — Пошаговый план для новичков, желающих начать карьеру технического писателя.
+- **[51 of the best release notes examples (plus 11 free templates)](https://www.launchnotes.com/blog/release-notes-examples)** — Подборка лучших примеров и шаблонов release notes с советами по их структурированию для удобства читателя.
+- **[Улучшение навигационного меню сайта документации (AsciiDoc/Antora)](https://habr.com/ru/company/docsvision/blog/693832/)** — Статья о том, как усовершенствовать навигационное меню сайта документации, актуальная для тех, кто работает с AsciiDoc/Antora.
+- **[Делаем документацию здорового человека в Git на примере Docs Ozon](https://habr.com/ru/company/ozontech/blog/695868/)** — Кейс Ozon о внедрении docs-as-code на Markdown и Hugo для пользовательской документации и на Redoc — для API-документации по OpenAPI.
+- **[Статья техблога Ozontech на Хабре](https://habr.com/ru/company/ozontech/blog/559544/)** — Ещё одна статья технического блога Ozon на Хабре, по контексту продолжающая тему организации документации и DocOps-практик компании.
+- **[Статья компании Embox на Хабре](https://habr.com/ru/company/embox/blog/445792/)** — Статья техблога проекта Embox на Хабре, упомянутая в контексте материалов по технической документации.
+- **[Using flat-tables in reStructuredText with Sphinx for column and row spans](https://koen.vervloesem.eu/blog/using-flat-tables-in-restructuredtext-with-sphinx-for-column-and-row-spans/)** — Статья о расширении flat-table для reStructuredText и Sphinx, позволяющем объединять ячейки таблиц по строкам и столбцам.
+- **[Docs as code против или вместе с Confluence?](https://habr.com/ru/post/483898/)** — Обзорная статья на Хабре о разных способах публикации документации из репозитория (docs-as-code) в Confluence.
+- **[Lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language)** — Статья в Википедии, сравнивающая лёгкие языки разметки, включая AsciiDoc и reStructuredText.
+- **[Статьи о Vale (docsy-site)](https://docsy-site.netlify.app/ua/docs/vale/)** — Серия статей о линтере прозы Vale и его настройке для проверки технических текстов.
+
 ## 2021
 
 - **[How we made Typerighter, the Guardian's style guide checker](https://www.theguardian.com/info/2021/jan/26/how-we-made-typerighter-the-guardians-style-guide-checker)** — Статья Guardian о том, как редакция создала собственный линтер стиля Typerighter на основе LanguageTool и идей Vale, показывающая подход крупной компании к автоматической проверке текста.
@@ -270,103 +368,5 @@ UX-тексты — это ключевая часть пользователь�
 - **[Better docs, less pain: the case for new docs-as-code standards](https://passo.uno/docs-as-code-tools-open-standards/)** — О стагнации инструментов техрайтинга и отсутствии единых стандартов разметки для docs-as-code.
 - **[Як оновити Vale до останньої версії](https://docsy-site.netlify.app/docs/vale/update-vale/)** — Авторская инструкция по обновлению линтера Vale до новой версии.
 - **[Как написать пользовательскую документацию](https://habr.com/ru/post/591101/)** — Статья о том, что входит в пользовательскую документацию и как писать её качественно.
-
-## 2022
-
-- **[GitLab Docs Epic](https://gitlab.com/groups/gitlab-org/-/epics/4602)** — Эпик GitLab о переработке сайта документации компании.
-- **[The Future of Documentation at Canonical](https://ubuntu.com//blog/the-future-of-documentation-at-canonical)** — Пост Canonical о планах развития документации Ubuntu.
-- **[Airbnb — редизайн документации](https://www.linkedin.com/posts/joniv_its-an-exciting-day-at-airbnb-after-many-activity-6802607084165824512-byfE/)** — Анонс в LinkedIn о переработке документации в Airbnb.
-- **[Three Documentation Trends to Share With Your Team in 2022](https://blog.stoplight.io/three-documentation-trends-to-share-with-your-team-in-2022)** — Прогноз Stoplight про автоматизацию, переиспользование контента и интерактивную документацию.
-- **[10 Trends Shaping the API Industry in 2022](https://blog.stoplight.io/10-trends-shaping-the-api-industry-in-2022)** — Обзор Stoplight главных трендов API-индустрии на 2022 год.
-- **[Writing the Metaverse](https://medium.com/designatmeta/writing-the-metaverse-metas-vp-of-content-design-on-the-future-of-the-discipline-ad3ef56dda)** — Вице-президент Meta по дизайну контента рассуждает о будущем профессии в контексте метавселенной.
-- **[GitLab Style Guide — Images](https://docs.gitlab.com/ee/development/documentation/styleguide/#images)** — Раздел стайлгайда GitLab с правилами оформления изображений в документации.
-- **[Вам кажется, что с вашей документацией что-то не так? Вам не кажется](https://habr.com/ru/company/oleg-bunin/blog/648317/)** — Семён Факторович разбирает причины ощущения "бесполезности" документации и что с этим делать.
-- **[Docs-as-code на прикладі Docusaurus](https://docsy-site.netlify.app/ua/docs/static-site-generators/docs-as-code/)** — Украиноязычный разбор подхода docs-as-code на примере генератора статических сайтов Docusaurus.
-- **[Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui)** — Раздел стайлгайда Microsoft о том, как описывать взаимодействие с интерфейсом в инструкциях.
-- **[Как правильно писать IP-адреса в документации](https://habr.com/ru/post/92767/)** — Справка о том, какие диапазоны IP-адресов допустимо использовать в качестве примеров в документации.
-- **[Недооцененность роли бизнес-аналитика](https://habr.com/ru/company/surfstudio/blog/655077/)** — О причинах, по которым заказчики недооценивают роль бизнес-аналитика, и как с этим работать.
-- **[Trends to Follow (or Forget): Docs as Code](https://idratherbewriting.com/trends/trends-to-follow-or-forget-docs-as-code.html#commento)** — Том Джонсон делится личным опытом внедрения подхода docs-as-code.
-- **[Markdoc review](https://passo.uno/markdoc-review/)** — Обзор и разбор инструмента Markdoc для написания документации.
-- **[Confluence Wiki Markup](https://confluence.atlassian.com/doc/confluence-wiki-markup-251003035.html)** — Официальная справка Atlassian по синтаксису wiki-разметки Confluence.
-- **[How to Simplify Your Text: A Guide for Non-Writers](https://www.linkedin.com/pulse/how-simplify-your-text-guide-non-writers-daria-tutyk/)** — Короткий гайд с советами, как упростить письменную коммуникацию людям, для которых писательство не основная профессия.
-- **[Top Technical Writing Blogs, Tools & Resources](https://www.wizardondemand.com/post/top-technical-writing-blogs-tools-resources)** — Подборка любимых блогов, инструментов и ресурсов по технической документации от авторов статьи.
-- **[Reducing negative and biased language in documentation](https://www.cncf.io/blog/2022/03/09/reducing-negative-and-biased-language-in-documentation/)** — Статья о том, как настроить линтер для автоматического поиска предвзятых и негативных формулировок в документации.
-- **[DocOps: документация как код (Habr, Plesk)](https://habr.com/ru/company/plesk/blog/555110/)** — Статья, объясняющая суть DocOps — подхода, при котором документация разрабатывается теми же инструментами и практиками, что и код (docs as code).
-- **[Как в Альфа-банке ведут документацию рядом с кодом](https://habr.com/ru/company/alfa/blog/680556/)** — Кейс о практике DocOps в Альфа-Банке: как поддерживать консистентность документации и кода, ведя их вместе.
-- **[Кейс: документация на Hugo (Selectel)](https://habr.com/ru/company/selectel/blog/514576/)** — Разбор кейса Selectel по построению сайта документации на генераторе статических сайтов Hugo.
-- **[Как презентовать результаты исследований](https://medium.com/designkontur/как-влиять-на-судьбу-итогов-исследования-даже-если-ты-не-в-команде-719a9d6232a2)** — Материал о том, как исследователям, дизайнерам и редакторам, работающим в сервисной модели, эффективно презентовать результаты своей работы продукту.
-- **[A.I. Is Mastering Language. Should We Trust What It Says?](https://www.nytimes.com/2022/04/15/magazine/ai-language.html)** — Подробный лонгрид о развитии больших языковых моделей (GPT-3) и вопросах доверия к сгенерированному ими тексту.
-- **[Как вести документацию рядом с кодом: особенности миддл-слоя, трудности бинарника и многое другое](https://t.me/alfadigital_jobs/1023)** — Статья о практике docs-as-code в Alfa Digital — особенностях ведения документации в связке со средним слоем и бинарными компонентами.
-- **[Як стати Technical Writer. План дій для початківців](https://dou.ua/lenta/articles/become-technical-writer/)** — Пошаговый план для новичков, желающих начать карьеру технического писателя.
-- **[51 of the best release notes examples (plus 11 free templates)](https://www.launchnotes.com/blog/release-notes-examples)** — Подборка лучших примеров и шаблонов release notes с советами по их структурированию для удобства читателя.
-- **[Улучшение навигационного меню сайта документации (AsciiDoc/Antora)](https://habr.com/ru/company/docsvision/blog/693832/)** — Статья о том, как усовершенствовать навигационное меню сайта документации, актуальная для тех, кто работает с AsciiDoc/Antora.
-- **[Делаем документацию здорового человека в Git на примере Docs Ozon](https://habr.com/ru/company/ozontech/blog/695868/)** — Кейс Ozon о внедрении docs-as-code на Markdown и Hugo для пользовательской документации и на Redoc — для API-документации по OpenAPI.
-- **[Статья техблога Ozontech на Хабре](https://habr.com/ru/company/ozontech/blog/559544/)** — Ещё одна статья технического блога Ozon на Хабре, по контексту продолжающая тему организации документации и DocOps-практик компании.
-- **[Статья компании Embox на Хабре](https://habr.com/ru/company/embox/blog/445792/)** — Статья техблога проекта Embox на Хабре, упомянутая в контексте материалов по технической документации.
-- **[Using flat-tables in reStructuredText with Sphinx for column and row spans](https://koen.vervloesem.eu/blog/using-flat-tables-in-restructuredtext-with-sphinx-for-column-and-row-spans/)** — Статья о расширении flat-table для reStructuredText и Sphinx, позволяющем объединять ячейки таблиц по строкам и столбцам.
-- **[Docs as code против или вместе с Confluence?](https://habr.com/ru/post/483898/)** — Обзорная статья на Хабре о разных способах публикации документации из репозитория (docs-as-code) в Confluence.
-- **[Lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language)** — Статья в Википедии, сравнивающая лёгкие языки разметки, включая AsciiDoc и reStructuredText.
-- **[Статьи о Vale (docsy-site)](https://docsy-site.netlify.app/ua/docs/vale/)** — Серия статей о линтере прозы Vale и его настройке для проверки технических текстов.
-
-## 2023
-
-- **[Обзор направления DocOps на Flow 2022](https://habr.com/ru/company/jugru/blog/708338/)** — Авторский обзор докладов и трендов направления DocOps, представленных на конференции Flow 2022.
-- **[API Resources and Endpoints](https://idratherbewriting.com/learnapidoc/docapis_resource_endpoints.html)** — Пояснение Тома Джонсона о том, чем эндпоинт ресурса отличается от HTTP-метода при документировании API.
-- **[Working with OpenAPI — Postman Docs](https://learning.postman.com/docs/integrations/available-integrations/working-with-openAPI/)** — Официальное руководство Postman по импорту и работе со спецификациями OpenAPI внутри платформы.
-- **[Onboarding Tutorials — NN/g](https://www.nngroup.com/articles/onboarding-tutorials/)** — Статья Nielsen Norman Group о принципах создания эффективных обучающих онбординг-материалов и вспомогательной документации.
-- **[Docsy + Swagger UI: приклад Pet Store](https://tw-docs.com/docs/static-site-generators/petstore-swagger/)** — Пример встраивания интерактивной спецификации OpenAPI через шорткод Swagger UI в тему Docsy для Hugo.
-- **[Docsy + Redoc: приклад Pet Store](https://tw-docs.com/docs/static-site-generators/petstore-redoc/)** — Аналогичный пример вставки OpenAPI-спецификации, но с использованием Redoc вместо Swagger UI в теме Docsy.
-- **[Write the Docs Newsletter – April 2023](https://www.writethedocs.org/blog/newsletter-april-2023.html#building-an-api-portfolio)** — Апрельский дайджест сообщества Write the Docs, среди прочего затрагивающий тему сборки API-портфолио.
-- **[Zoomin: GPT Key Predictions (White Paper)](https://storage.pardot.com/1018802/1680517858gTb683bk/Zoomin_GPT_Key_Predictions_White_paper__1_.pdf)** — White paper на 14 страниц об ожидаемом влиянии инструментов вроде ChatGPT на работу технических писателей.
-- **[Ecosystem, Structure, Identity, Pencils](https://idratherbewriting.com/2023/04/14/ecosystem-structure-identity-pencils/)** — Заметка Тома Джонсона с размышлениями об экосистемах инструментов и подходов в технической документации.
-- **[Docusaurus vs Gatsby vs Hugo](https://wtjungle.com/blog/docusaurus-gatsby-hugo/)** — Сравнение трёх генераторов статических сайтов документации — Docusaurus, Gatsby и Hugo.
-- **[Moving from Docusaurus to Hugo](https://ricard.dev/moving-from-docusaurus-to-hugo/)** — Личный опыт разработчика о переходе с Docusaurus на Hugo при построении сайта документации.
-- **[Docs as Code](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html)** — Обзорный материал о подходе docs-as-code применительно к публикации API-документации.
-- **[How I Built WritingGPT: A Fully Automated AI Writing Team](https://medium.com/the-generator/how-i-built-writinggpt-a-fully-automated-ai-writing-team-a8fdf0255586)** — История о создании полностью автоматизированной команды из ИИ-агентов для написания текстов.
-- **[Newsletter: Doctave, Chatbase, SiteGPT, small CLs, TC bibliography](https://idratherbewriting.com/blog/doctave-microchat-small-cls-bibliography)** — Дайджест блога Тома Джонсона с обзором новых инструментов документации и AI-чат-сервисов для доков.
-- **[Why You Should Consider Docs as Code](https://www.doctave.com/blog/2021/08/30/why-you-should-consider-docs-as-code.html)** — Статья Doctave о преимуществах подхода docs-as-code для команд, работающих с документацией.
-- **[Technical Writing Digest #2 (DOU)](https://dou.ua/lenta/digests/technical-writing-digest-2/)** — Дайджест DOU с подборкой статей и новостей по теме технического письма.
-- **[The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464)** — Практическое руководство с советами по написанию технических блог-постов, полезное для авторов технического контента.
-- **[Docusaurus Image Zoom](https://tw-docs.com/docs/static-site-generators/docusaurus-image-zoom/)** — Авторская статья о подключении и настройке плагина увеличения изображений в Docusaurus.
-- **[Tech writer's git story: from isolation to collaboration](https://blog.jetbrains.com/writerside/2023/07/tech-writer-s-git-story-from-isolation-to-collaboration/)** — Блог JetBrains о том, как техрайтер осваивал git и переходил к совместной работе через docs-as-code.
-- **[Using AI as an editor (docapis)](https://idratherbewriting.com/learnapidoc/docapis_ai_language_advice.html)** — Том Джонсон делится опытом использования ChatGPT как редактора, поясняющего проблемы в тексте документации.
-- **[Do AI language models work for tech writers?](https://idratherbewriting.com/learnapidoc/docapis_ai_what_works_and_doesnt.html)** — Том Джонсон размышляет о том, что в работе с ИИ реально полезно техрайтерам, а что нет, на основе своего опыта.
-- **[Technical Writing: complement or compete with Generative AI?](https://medium.com/softserve-technical-communication/technical-writing-complement-or-compete-with-generative-ai-6403ee30c22b)** — Статья с результатами исследования SoftServe о том, сколько времени экономит ChatGPT на типовых задачах техрайтера, например на релиз-нотах.
-- **[Docusaurus: зміна розміру зображень через HTML](https://tw-docs.com/docs/static-site-generators/docusaurus-image-size/)** — Авторская статья о том, как менять размер изображений в Docusaurus с помощью HTML-тегов.
-- **[Организация репозитория и смежные задачи](https://habr.com/ru/companies/cloud_ru/articles/767014/)** — Статья с разбором подходов к организации репозитория проекта и решению сопутствующих задач.
-- **[Diátaxis: структура технической документации](https://habr.com/ru/companies/documentat/articles/766926/)** — Статья описывает фреймворк Diátaxis, который делит документацию на четыре типа (концепции, справочники, туториалы, инструкции) для более понятной структуры технических текстов.
-- **[Five Elements of Good API Documentation](https://apichangelog.substack.com/p/five-elements-of-good-api-documentation)** — В статье перечислены пять ключевых элементов качественной API-документации, помогающих разработчикам быстрее разобраться в продукте.
-
-## 2024
-
-- **[Стаття про техрайтерську сертифікацію](https://shorturl.at/gqFNP)** — Автор звів докупи всю доступну інформацію про сертифікацію технічних письменників; стаття є також в англомовній версії.
-- **[My 2024 technical writing trends and predictions](https://idratherbewriting.com/blog/2024-tech-comm-trends-and-predictions)** — Том Джонсон прогнозирует тренды технического письма на 2024 год, включая влияние ИИ на профессию.
-- **[All the ways I'm using AI tools in everyday life](https://idratherbewriting.com/blog/all-the-ways-im-using-ai-tools-in-everyday-life)** — Автор блога делится личным опытом применения разных ИИ-инструментов в повседневной работе техписателя.
-- **[Quality checklist for API documentation](https://idratherbewriting.com/learnapidoc/docapis_quality_checklist.html)** — Чек-лист для проверки качества API-документации от известного блога и курса по API docs Тома Джонсона.
-- **[Portfolios: API docs (гостевой пост Peter Gustafson)](https://idratherbewriting.com/blog/portfolios-api-docs-peter-gustafson)** — Гостевой пост в блоге Тома Джонсона о создании сайта-портфолио для демонстрации примеров API-документации, с разбором его сильных и слабых сторон.
-- **[The Role of the Technical Writer in the AI Revolution](https://habr.com/ru/articles/744930/)** — Статья рассматривает, как технические писатели становятся посредниками между ИИ-технологиями и пользователями, объясняя сложные концепции простым языком.
-- **[AI is accelerating my technical writing output, and other observations](https://idratherbewriting.com/blog/ai-is-accelerating-me)** — Том Джонсон делится наблюдениями о том, как использование ИИ ускоряет и меняет процесс написания технической документации.
-- **[Understanding APIs: 10 API Concepts and Examples](https://blog.latitude.so/understanding-apis/)** — Статья разбирает базовые концепции API: типы, REST/SOAP, форматы данных, аутентификацию и ограничение частоты запросов.
-- **[Краще забути про «Ой» та «Упс». Як писати про помилки в UX](https://dou.ua/forums/topic/49586/)** — Статья на DOU о принципах UX-письма для сообщений об ошибках — как формулировать их понятнее и доброжелательнее для пользователя.
-- **[UX Writing Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)** — Подборка материалов от Nielsen Norman Group по основам UX-письма: принципы, методики и рекомендации по текстам интерфейса.
-- **[6 Words Technical Writers Struggle to Break Up With](https://www.linkedin.com/pulse/6-words-technical-writers-struggle-break-up-simplified-shumin-chen/)** — Статья на LinkedIn о шести словах-паразитах, от которых стоит отказаться техническим писателям ради более простого и ясного языка.
-- **[University Commas (xkcd 2995)](https://www.reddit.com/r/xkcd/comments/1fyj7qr/xkcd_2995_university_commas/)** — Шуточная подборка на Reddit, где разные виды англомовних запятых (в т.ч. оксфордскую) называют именами университетов — забавный, но полезный ликбез по пунктуации для тех, кто пишет на английском.
-- **[Про оксфордську кому](https://t.me/pereklad_lokalizatsiya/391)** — Пост в telegram-канале про переклад і локалізацію, присвячений оксфордській комі та її ролі в текстах.
-- **[Docusaurus Search Chatbot](https://tw-docs.com/docs/static-site-generators/docusaurus-search-chatbot/)** — Пошаговая инструкция, как добавить чат-бота для поиска по сайту документации, построенному на Docusaurus.
-- **[2024 technical writing journey: From documentation specialist...](https://www.linkedin.com/pulse/2024-technical-writing-journey-from-documentation-specialist-adler-vchbe)** — Личная рефлексия автора о профессиональном пути технического писателя за 2024 год.
-
-## 2025
-
-- **[What's an API?](https://read.technically.dev/p/whats-an-api)** — Доступное объяснение понятия API для новичков, которые ещё не готовы к более серьёзному курсу по документированию API.
-- **[Tech Writing Predictions 2025](https://passo.uno/tech-writing-predictions-2025/)** — Прогнозы автора блога Passo о том, как будет развиваться профессия технического писателя в 2025 году.
-- **[My 2025 trends predictions for tech comm](https://idratherbewriting.com/blog/trends-predictions-2025-tech-comm)** — Прогнозы Тома Джонсона о ключевых трендах в технической коммуникации на 2025 год.
-- **[Історія створення відділу технічної документації в держкомпанії](https://dou.ua/goto/e3PE)** — Кейс о том, как в крупной государственной IT-компании с нуля создали централизованный отдел технической документации.
-- **[Software documentation guide — Write the Docs](https://www.writethedocs.org/guide/index.html)** — Обширное открытое руководство сообщества Write the Docs по написанию и организации технической документации.
-- **[Unlocking AI: How technical writers can make content searchable and discoverable](https://medium.com/softserve-technical-communication/unlocking-ai-how-technical-writers-can-make-content-searchable-and-discoverable-a0f45b9b1531)** — Статья о том, как технические писатели могут использовать ИИ, чтобы сделать документацию более удобной для поиска.
-- **[Use cases for AI](https://idratherbewriting.com/ai/)** — Подборка сценариев применения ИИ в работе технического писателя от Тома Джонсона.
-- **[Як писати якісні текстові поля для інтерфейсу](https://dou.ua/forums/topic/53677/?from=slider)** — Авторская статья про UX-писательство, разбирающая текстовое поле интерфейса как набор из нескольких текстовых компонентов на реальном примере OLX.
-- **[State of Docs 2025](https://www.stateofdocs.com/2025/introduction-basic-stats)** — Ежегодный отраслевой отчёт о состоянии документации: как команды измеряют успех, встраивают доки в продуктовый процесс и используют ИИ.
-- **[I feel like I've seen the future today](https://idratherbewriting.com/blog/seen-the-future-document-authoring-api)** — Заметка Тома Джонсона о новых подходах к авторингу документации через API, которые впечатлили его своим потенциалом.
-- **[The plurality of AI attitudes and experiences](https://idratherbewriting.com/blog/plurality-of-ai-attitudes-experiences)** — Размышления Тома Джонсона о разнообразии мнений и опыта технических писателей в отношении ИИ.
 
 ---

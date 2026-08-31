@@ -2,6 +2,25 @@
 
 Записи докладов, конференции и вебинары по технической документации, DocOps, API-документации и управлению знаниями — по годам.
 
+## 2026
+
+- **[Умный поиск по внутренней БЗ с LLM: от архитектуры до внедрения](https://www.youtube.com/watch?v=wMavc-itHJk&t=14401s)** — Доклад Т-Банка с конференции Saint HighLoad о построении умного поиска по внутренней базе знаний на основе LLM.
+
+## 2023
+
+- **[API design mistakes](https://www.infoq.com/presentations/API-design-mistakes/)** — Доклад с разбором типичных ошибок проектирования API, полезный для тех, кто документирует API.
+
+## 2022
+
+- **[Доклад Семёна Факторовича на Knowledge Conf](https://www.youtube.com/watch?v=GZ3knZ1o3Fc&feature=emb_title)** — Видеозапись доклада на Knowledge Conf, легшего в основу статьи о «бесполезности» документации.
+- **[Git + GitLab: як швидко почати з цим працювати самостійно і в команді](https://edu.cbsystematics.com/ua/webinars/git-gitlab)** — Вебинар для тех, кто хочет быстро освоить Git и GitLab для индивидуальной и командной работы, что актуально для docs-as-code подхода.
+- **[API-first подход (доклад, TechLead Conf)](https://www.youtube.com/watch?v=FonPUYCikoQ)** — Доклад Максима Лапшина о сути API-first подхода и о том, зачем и как документировать API через OpenAPI.
+- **[Write The Docs Prague 2022 (расписание конференции)](https://www.writethedocs.org/conf/prague/2022/schedule/)** — Расписание докладов профильной конференции для технических писателей Write The Docs Prague 2022.
+- **[Beyond spell checking - what else can we check automatically?](https://www.writethedocs.org/conf/prague/2022/speakers/#speaker-tibs)** — Доклад о том, какие ещё автоматические проверки качества текста можно применять к документации, помимо орфографии.
+- **[Maintaining Documentation: Make It Easy!](https://www.writethedocs.org/conf/prague/2022/speakers/#speaker-emilia-juda-zbay)** — Доклад о том, как упростить процесс поддержания документации в актуальном состоянии.
+- **[How I convinced my boss to build our docs team](https://www.writethedocs.org/conf/prague/2022/speakers/#speaker-karissa-van-baulen)** — Доклад-кейс о том, как убедить руководство создать отдельную команду техписателей.
+- **[tcworld conference (tekom)](https://tcworldconference.tekom.de/)** — Крупная международная конференция tekom/tcworld по технической коммуникации, собирающая техписателей со всего мира.
+
 ## 2021
 
 - **[WTD EMEA — What skills and competencies do documentarians need](https://youtu.be/MrNbjEHFcDA)** — Запись доклада с конференции Write the Docs EMEA о наборе навыков и компетенций, нужных техническому писателю.
@@ -24,22 +43,3 @@
 - **[Docs for Developers: A conversation with the authors](https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/281680933/)** — Встреча с авторами книги Docs for Developers в формате беседы.
 - **[Contract Technical Writing: A Survival Guide](https://www.meetup.com/STC-Berkeley/events/281758502)** — Митап STC о том, как работать техническим писателем на контрактной основе.
 - **[Social and Semantic Technical Documentation](https://www.brighttalk.com/webcast/9273/482407)** — Вебинар о социальных и семантических аспектах технической документации.
-
-## 2022
-
-- **[Доклад Семёна Факторовича на Knowledge Conf](https://www.youtube.com/watch?v=GZ3knZ1o3Fc&feature=emb_title)** — Видеозапись доклада на Knowledge Conf, легшего в основу статьи о «бесполезности» документации.
-- **[Git + GitLab: як швидко почати з цим працювати самостійно і в команді](https://edu.cbsystematics.com/ua/webinars/git-gitlab)** — Вебинар для тех, кто хочет быстро освоить Git и GitLab для индивидуальной и командной работы, что актуально для docs-as-code подхода.
-- **[API-first подход (доклад, TechLead Conf)](https://www.youtube.com/watch?v=FonPUYCikoQ)** — Доклад Максима Лапшина о сути API-first подхода и о том, зачем и как документировать API через OpenAPI.
-- **[Write The Docs Prague 2022 (расписание конференции)](https://www.writethedocs.org/conf/prague/2022/schedule/)** — Расписание докладов профильной конференции для технических писателей Write The Docs Prague 2022.
-- **[Beyond spell checking - what else can we check automatically?](https://www.writethedocs.org/conf/prague/2022/speakers/#speaker-tibs)** — Доклад о том, какие ещё автоматические проверки качества текста можно применять к документации, помимо орфографии.
-- **[Maintaining Documentation: Make It Easy!](https://www.writethedocs.org/conf/prague/2022/speakers/#speaker-emilia-juda-zbay)** — Доклад о том, как упростить процесс поддержания документации в актуальном состоянии.
-- **[How I convinced my boss to build our docs team](https://www.writethedocs.org/conf/prague/2022/speakers/#speaker-karissa-van-baulen)** — Доклад-кейс о том, как убедить руководство создать отдельную команду техписателей.
-- **[tcworld conference (tekom)](https://tcworldconference.tekom.de/)** — Крупная международная конференция tekom/tcworld по технической коммуникации, собирающая техписателей со всего мира.
-
-## 2023
-
-- **[API design mistakes](https://www.infoq.com/presentations/API-design-mistakes/)** — Доклад с разбором типичных ошибок проектирования API, полезный для тех, кто документирует API.
-
-## 2026
-
-- **[Умный поиск по внутренней БЗ с LLM: от архитектуры до внедрения](https://www.youtube.com/watch?v=wMavc-itHJk&t=14401s)** — Доклад Т-Банка с конференции Saint HighLoad о построении умного поиска по внутренней базе знаний на основе LLM.

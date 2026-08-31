@@ -22,6 +22,19 @@ This article highlights five essential books for technical writers, offering ins
 
 # Архив книг (2021–2026)
 
+## 2026
+
+- **[Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)** — Книга о том, как разработчикам и инженерам писать качественную техническую документацию, с акцентом на типизацию документов.
+
+## 2022
+
+- **[Technical Writing — Lists (глава учебника)](https://pressbooks.bccampus.ca/technicalwriting/chapter/lists/)** — Глава открытого учебника по технической документации, посвящённая правильному оформлению списков в текстах.
+- **[Pragmatic Knowledge Management Guide](https://pragmatic-km.guide/usage/README.html)** — Коллективный практический гайд по управлению знаниями, написанный сообществом специалистов.
+- **[Письмо це дизайн: як слова створюють досвід користування](https://www.yakaboo.ua/ua/pis-mo-ce-dizajn-jak-slova-stvorjujut-dosvid-koristuvannja.html)** — Книга о том, как формулировки интерфейсных текстов формируют пользовательский опыт — ключевая тема для UX-райтеров.
+- **[The Elements of Style, 4th Edition](https://archive.org/download/pdfy-2_qp8jQ61OI6NHwa/Strunk%20%26%20White%20-%20The%20Elements%20of%20Style%2C%204th%20Edition.pdf)** — Классический учебник по стилю и ясности письма на английском языке, актуальный и для технической документации.
+- **[Ask HN: Any great books about technical writing?](https://news.ycombinator.com/item?id=32342493)** — Тред на Hacker News, где сообщество делится рекомендациями хороших книг по техническому письму.
+- **[Christmas gift ideas: 7 books for Technical Communicators](https://medium.com/softserve-technical-communication/christmas-gift-ideas-7-books-for-technical-communicators-6d53624f07a)** — Подборка из семи книг для технических коммуникаторов, составленная по итогам отзывов коллег из SoftServe.
+
 ## 2021
 
 - **[Technical Authoring Course Training Manual](http://www.technicalwritingcourse.co.uk/wp-content/uploads/Philip_Torys_FREE_Technical_Writing_Course_Training_Manual_v18.5.pdf)** — Бесплатный 150-страничный учебник по техническому письму от опытного преподавателя с упражнениями по ясному языку и структуре текста.
@@ -36,16 +49,3 @@ This article highlights five essential books for technical writers, offering ins
 - **[The Article Book: Practice toward Mastering A, An, and The](https://www.amazon.com/Book-Practice-toward-Mastering/dp/0472086391)** — Учебник по использованию английских артиклей a/an/the, полезный нерусскоязычным техническим писателям.
 - **[Every Page is Page One](https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281)** — Книга Марка Бейкера о topic-based подходе к технической коммуникации.
 - **[The Inmates Are Running the Asylum](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140/)** — Книга Алана Купера о проектировании продуктов с учётом реальных пользователей и UX.
-
-## 2022
-
-- **[Technical Writing — Lists (глава учебника)](https://pressbooks.bccampus.ca/technicalwriting/chapter/lists/)** — Глава открытого учебника по технической документации, посвящённая правильному оформлению списков в текстах.
-- **[Pragmatic Knowledge Management Guide](https://pragmatic-km.guide/usage/README.html)** — Коллективный практический гайд по управлению знаниями, написанный сообществом специалистов.
-- **[Письмо це дизайн: як слова створюють досвід користування](https://www.yakaboo.ua/ua/pis-mo-ce-dizajn-jak-slova-stvorjujut-dosvid-koristuvannja.html)** — Книга о том, как формулировки интерфейсных текстов формируют пользовательский опыт — ключевая тема для UX-райтеров.
-- **[The Elements of Style, 4th Edition](https://archive.org/download/pdfy-2_qp8jQ61OI6NHwa/Strunk%20%26%20White%20-%20The%20Elements%20of%20Style%2C%204th%20Edition.pdf)** — Классический учебник по стилю и ясности письма на английском языке, актуальный и для технической документации.
-- **[Ask HN: Any great books about technical writing?](https://news.ycombinator.com/item?id=32342493)** — Тред на Hacker News, где сообщество делится рекомендациями хороших книг по техническому письму.
-- **[Christmas gift ideas: 7 books for Technical Communicators](https://medium.com/softserve-technical-communication/christmas-gift-ideas-7-books-for-technical-communicators-6d53624f07a)** — Подборка из семи книг для технических коммуникаторов, составленная по итогам отзывов коллег из SoftServe.
-
-## 2026
-
-- **[Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)** — Книга о том, как разработчикам и инженерам писать качественную техническую документацию, с акцентом на типизацию документов.
