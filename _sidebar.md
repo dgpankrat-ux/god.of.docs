@@ -9,6 +9,15 @@
 - **Courses**
   - [Курсы](Courses/Courses.md)
 
+- **Talks**
+  - [Доклады и конференции](Talks/Talks.md)
+
+- **Standards**
+  - [Стандарты и стайлгайды](Standards/Standards.md)
+
+- **People**
+  - [Люди, блоги, сообщества](People/People.md)
+
 - **Git**
   - [Гайд по Git](Git/Git%20simple%20guide.md)
 
@@ -19,4 +28,4 @@
   - [Инструменты](Tools/Tools.md)
 
 - **Youtube**
-  - [Каналы и видео](Youtube/Youtube%20channels.md)
+  - [Видео и подкасты](Youtube/Youtube%20channels.md)

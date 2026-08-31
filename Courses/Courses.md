@@ -52,3 +52,35 @@ Localization Considerations:
 - **Keep sentences short**: Simplify compound sentences for easier translation.
 
 For more details, refer to the [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/)
+
+---
+
+# Архив курсов (2021–2024)
+
+## 2021
+
+- **[Онлайн-курс редагування](https://litosvita.com/editing)** — Курс редактирования текста с практическими советами по стилю и типичным языковым проблемам.
+- **[Google's Technical Writing Courses](https://developers.google.com/tech-writing)** — Бесплатный курс Google по основам технического письма для разработчиков и не только.
+- **[Learn API Doc (курс Тома Джонсона)](https://idratherbewriting.com/learnapidoc/)** — Курс Тома Джонсона по написанию документации API, считающийся одним из эталонных материалов по теме.
+- **[UX-Writing Academy](https://uxwritinghub.com/join-the-ux-writing-academy/)** — Платное обучение UX-письму, стоимость которого включает доступ к менторам.
+- **[Бізнес-аналіз. Інтенсив](https://e-5.com.ua/uk/trainings/business-analysis-intensive/)** — Интенсивный курс по бизнес-анализу, затрагивающий работу с требованиями.
+- **[Conversation Design Challenge](https://dailyuxwriting.com/conversation-design-challenge)** — Бесплатная рассылка-челлендж по проектированию диалоговых интерфейсов.
+- **[Certified Simplified Technical English](https://www.linkedin.com/events/us-canada-certifiedsimplifiedte6778489764837511168/)** — Семинар по сертификации в области упрощённого технического английского.
+
+## 2022
+
+- **[Підбірка курсів з technical writing](https://cutt.ly/tw_kursy)** — Собранная автором на основе рекомендаций сообщества подборка курсов по технической документации.
+- **[UX Writing (курс, Projector)](https://prjctr.com/course/ux-writing)** — Курс по UX-писательству от школы Projector, который, по отзыву, полезен и для развития навыков технического письма.
+- **[Technical Writing Certificate — история о повышении зарплаты (Oregon State University)](https://blog.pace.oregonstate.edu/doubling-her-salary-with-oregon-states-technical-writing-certificate)** — История о том, как сертификат по технической документации от Oregon State University помог удвоить зарплату.
+- **[Markdown Tutorial](https://www.markdowntutorial.com/)** — Интерактивный онлайн-тренажёр, позволяющий на практике освоить синтаксис Markdown, оформляя собственный текст.
+
+## 2023
+
+- **[KM Institute](https://www.kminstitute.org/)** — Институт, специализирующийся на обучении и сертификации в области управления знаниями (Knowledge Management).
+- **[Learn API Technical Writing 2: REST for Writers](https://www.udemy.com/course/learn-api-technical-writing-2-rest-for-writers/)** — Курс на Udemy, обучающий техрайтеров документировать REST API.
+- **[Professional Writing (Saylor Academy)](https://learn.saylor.org/course/view.php?id=729)** — Бесплатный курс с сертификатом по деловому и профессиональному письму от онлайн-академии Saylor.
+- **[Technical Writing (Saylor Academy, ENGL210)](https://learn.saylor.org/course/ENGL210)** — Бесплатный вводный курс технического письма с сертификатом, полезный новичкам в техрайтинге.
+
+## 2024
+
+- **[ChatGPT Prompt Engineering For Professional Tech Writing](https://www.udemy.com/course/chatgpt-prompt-engineering-for-professional-technicalwriting/)** — Курс на Udemy учит составлять промпты для ChatGPT применительно к задачам технического письма.
