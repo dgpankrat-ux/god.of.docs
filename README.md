@@ -4,7 +4,7 @@
 
 ## Как запустить локально как сайт
 
-База знаний собрана на [Docsify](https://docsify.js.org/) — рендерит markdown-файлы прямо в браузере, без сборки. Все JS/CSS-файлы движка лежат в [`vendor/docsify/`](vendor/docsify) и работают офлайн, интернет не нужен.
+База знаний собрана на [Docsify](https://docsify.js.org/) — рендерит markdown-файлы прямо в браузере, без сборки. Все JS/CSS-файлы движка лежат в [`Vendor/docsify/`](Vendor/docsify) и работают офлайн, интернет не нужен.
 
 ```bash
 python3 -m http.server 5500
