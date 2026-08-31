@@ -9,17 +9,17 @@
 - **Courses**
   - [Курсы](Courses/Courses.md)
 
-- **Talks**
-  - [Доклады и конференции](Talks/Talks.md)
-
-- **Standards**
-  - [Стандарты и стайлгайды](Standards/Standards.md)
+- **Git**
+  - [Гайд по Git](Git/Git%20simple%20guide.md)
 
 - **People**
   - [Люди, блоги, сообщества](People/People.md)
 
-- **Git**
-  - [Гайд по Git](Git/Git%20simple%20guide.md)
+- **Standards**
+  - [Стандарты и стайлгайды](Standards/Standards.md)
+
+- **Talks**
+  - [Доклады и конференции](Talks/Talks.md)
 
 - **Telegram**
   - [Каналы](Telegram/Telegram%20channels.md)

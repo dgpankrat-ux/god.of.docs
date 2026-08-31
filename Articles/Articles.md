@@ -191,7 +191,7 @@ QA-інженери мають великий вплив на документа
 
 ---
 
-## UX-текст: как он формирует продукт
+# UX-текст: как он формирует продукт
 
 Что такое UX-текст?
 UX-текст — это текст, который побуждает пользователей к действиям и улучшает взаимодействие с продуктом. Это кнопки, подсказки, уведомления и т. д.
@@ -232,7 +232,6 @@ UX-тексты — это ключевая часть пользователь�
 - **[Optimizing API Documentation: Some Guidelines and Effects](https://www.researchgate.net/publication/344464691_Optimizing_API_Documentation_Some_Guidelines_and_Effects)** — Продолжение исследования с рекомендациями по улучшению документации API и проверкой их эффективности на реальном примере.
 - **[How we use GitHub Actions to manage GitHub Docs](https://github.blog/2021-04-28-use-github-actions-manage-docs/)** — Статья GitHub о том, как компания использует собственные GitHub Actions для управления документацией GitHub Docs.
 - **[Як створювати та оформлювати технічну документацію в IT](https://dou.ua/lenta/columns/creating-technical-documentation/)** — Материал DOU с рекомендациями по созданию и оформлению технической документации для новичков и опытных писателей.
-- **[Не делать работу дважды](https://habr.com/ru/company/oleg-bunin/blog/525110/)** — Статья о воронке обмена знаниями как бизнес-процессе и о точках, где команды теряют мотивацию делиться знаниями.
 - **[Почему из команды уходит техписатель? У меня на это 5 причин](https://habr.com/ru/post/556986/)** — Статья (перепост из LinkedIn) о типичных причинах, по которым технические писатели уходят из команд.
 - **[14 Ways to Make a Good Technical Writer Quit](https://www.linkedin.com/pulse/20141201061826-13779724-14-ways-to-make-a-good-technical-writer-quit/)** — Классический текст о действиях компаний, которые вынуждают хороших технических писателей увольняться.
 - **[First steps with the Vale prose linter](https://passo.uno/posts/first-steps-with-the-vale-prose-linter/)** — Введение в линтер прозы Vale: чем он отличается от линтеров кода и как начать им пользоваться.
